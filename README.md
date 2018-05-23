@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Deffit et al., "The C. elegans neural editome reveals an ADAR target mRNA required for proper chemotaxis". eLife, 2017. http://dx.doi.org/10.7554/eLife.28625
+
+
 ![logo](https://github.com/YeoLab/rna_editing_pipeline/blob/master/logo/sailor-logo.png)
 
 # Software for Accurately Identifying Locations Of RNA-editing (SAILOR)
